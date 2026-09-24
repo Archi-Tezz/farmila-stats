@@ -1,3 +1,4 @@
 *.dds binary
 *.png binary
 *.txt -text
+*.json -text

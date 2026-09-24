@@ -6,3 +6,4 @@ resource/farmila/items_p1.dds 4194432
 resource/farmila/items_p2.dds 4194432
 resource/farmila/items_p3.dds 2097280
 idallitem.txt 2759881
+config/payday/crafts.json 5880861
