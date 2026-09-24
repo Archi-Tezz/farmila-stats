@@ -6,6 +6,7 @@
 |---|---|
 | `resource/farmila/items_atlas.png` | иконки ходовых предметов (ларцы, тайники, бумаги) |
 | `resource/farmila/items_p1..3.dds` | иконки остальных предметов игры, сжатые |
+| `resource/farmila/skins_p1..2.dds` | картинки скинов персонажей (для карточки напарника) |
 | `resource/farmila/items_atlas.txt` | где в картинках лежит иконка каждого предмета |
 | `idallitem.txt` | справочник названий предметов по ID |
 | `config/payday/crafts.json` | база рецептов крафтов (вкладка Крафты) |
