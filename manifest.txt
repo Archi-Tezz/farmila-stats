@@ -1,0 +1,8 @@
+# Farmila Stats: файлы для установки (путь размер)
+version 1
+resource/farmila/items_atlas.png 1411211
+resource/farmila/items_atlas.txt 140940
+resource/farmila/items_p1.dds 4194432
+resource/farmila/items_p2.dds 4194432
+resource/farmila/items_p3.dds 2097280
+idallitem.txt 2759881
