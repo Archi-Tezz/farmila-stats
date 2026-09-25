@@ -1,11 +1,12 @@
 # Farmila Stats: файлы для установки (путь размер)
-version 2
+version 3
 resource/farmila/items_atlas.png 1411211
-resource/farmila/items_atlas.txt 155931
+resource/farmila/items_atlas.txt 156322
 resource/farmila/items_p1.dds 4194432
 resource/farmila/items_p2.dds 4194432
 resource/farmila/items_p3.dds 2097280
 resource/farmila/skins_p1.dds 4194432
 resource/farmila/skins_p2.dds 4194432
+resource/farmila/servers.dds 262272
 idallitem.txt 2759881
 config/payday/crafts.json 5880861
